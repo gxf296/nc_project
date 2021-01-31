@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nine_clock_common/nine_clock_common.iml" filepath="$PROJECT_DIR$/nine_clock_common/nine_clock_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nine_clock_gateway/nine_clock_gateway.iml" filepath="$PROJECT_DIR$/nine_clock_gateway/nine_clock_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nine_clock_project.iml" filepath="$PROJECT_DIR$/.idea/nine_clock_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nine_clock_sys/nine_clock_sys.iml" filepath="$PROJECT_DIR$/nine_clock_sys/nine_clock_sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nine_clock_sys/nine_sys_dto/nine_sys_dto.iml" filepath="$PROJECT_DIR$/nine_clock_sys/nine_sys_dto/nine_sys_dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nine_clock_sys/nine_sys_interface/nine_sys_interface.iml" filepath="$PROJECT_DIR$/nine_clock_sys/nine_sys_interface/nine_sys_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nine_clock_sys/nine_sys_service/nine_sys_service.iml" filepath="$PROJECT_DIR$/nine_clock_sys/nine_sys_service/nine_sys_service.iml" />
+    </modules>
+  </component>
+</project>
